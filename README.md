@@ -1,22 +1,25 @@
 
 # Hello, world
 
-Hi! I am **Andrew** - engineering director with 10+ years in software development & engineering management positions and track record of leading X-functional teams to launch award-winning products. 
+I am **Andrew** - a seasoned technology leader with a passion for building high-performing teams and delivering impactful products. 
 
-I used to wear many hats: SWE, Director of Engineering, VP of Engineering / CTO, co-founder of startup, Managing Partner of agency focused on creating complex IT-solutions for clients.
+My expertise spans technical program management, product development, and engineering leadership, with a focus on building agile, high-performing teams that embrace "extreme ownership." I've successfully led cross-functional teams of over hundreds - engineers, PMs, and designers - in both large financial institutions and fast-growing startups.
 
-- worked in large financial institutions and in/with small startups; 
-- had full P&L responsibility;
-- managed mid-sized remote distributed X-functional teams (SWE, DevOps, QA, UI/UX, PMs) of up to 50 employees;
-- built high performing teams – attracted, interviewed, developed & retained top talent;
-- set up engineering teams with low management overhead, transparent and accountable culture, and "extreme ownership" of their project/product;
-- built [own](https://www.arena.stream) [startup](https://www.crunchbase.com/organization/arena-713f) from scratch, as well as products for many VC-backed startups or corporations;
-- non-dogmatic Agile adopter: inspired by Kanban, Andon Cord and "extreme ownership";
+I have a proven track record of success in leading large-scale technical programs, driving product strategy, and fostering a culture of innovation.
 
+Key Highlights:
+- Orchestrated complex **technical programs**: Delivered sophisticated PaaS products for business intelligence, data governance, and data science, impacting tens of thousands of employees.
+- Built **high-performing teams**: Attracted, developed, and retained top talent, fostering a culture of transparency, accountability, and ownership.
+- Launched **award-winning products**: assisted notable VC-backed startups in building their flagship products to wide industry acclaim.
+- Driven **innovation**: Spearheaded key technology initiatives that lead to significant business impact.
+- **Crisis management**: Navigating challenging situations and leading teams through crisis - where everyone else failed.
+
+I'm a passionate advocate for:
+- **Empowering teams**: Creating a culture that fosters growth, collaboration, and innovation.
+- **Solving complex problems**: Leveraging my technical expertise and strategic thinking to deliver impactful solutions.
+- **Entrepreneurship** and startups.
 
 ### Reach out to me
 
-- To learn more about my career path, or discuss opportunities, see [my LinkedIn profile](https://www.linkedin.com/in/drewousenko/)
-- [ARENA.STREAM](https://www.arena.stream) is a recent startup me and my partner were busy with. It's a product for streamers to engage with their audience and advertisers, earn money, grow and be discovered. [Crunchbase](https://www.crunchbase.com/organization/arena-713f)
-- I am an early adopter and fan of GitLab; my "code contributions" over years [could be tracked there](http://gitlab.com/ousenko)
+- To learn more about my career and achievements and discuss opportunities, see [my LinkedIn profile](https://www.linkedin.com/in/drewousenko/)
 - I used StackOverflow a lot, and [contributed](https://stackoverflow.com/users/1900071/drew) to community
